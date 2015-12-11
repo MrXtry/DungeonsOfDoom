@@ -1,0 +1,6 @@
+c:\users\kevin\documents\visual studio 2015\Projects\DungeonsOfDoom\DungeonsOfDoom\bin\Debug\DungeonsOfDoom.exe.config
+c:\users\kevin\documents\visual studio 2015\Projects\DungeonsOfDoom\DungeonsOfDoom\bin\Debug\DungeonsOfDoom.exe
+c:\users\kevin\documents\visual studio 2015\Projects\DungeonsOfDoom\DungeonsOfDoom\bin\Debug\DungeonsOfDoom.pdb
+c:\users\kevin\documents\visual studio 2015\Projects\DungeonsOfDoom\DungeonsOfDoom\obj\Debug\DungeonsOfDoom.csprojResolveAssemblyReference.cache
+c:\users\kevin\documents\visual studio 2015\Projects\DungeonsOfDoom\DungeonsOfDoom\obj\Debug\DungeonsOfDoom.exe
+c:\users\kevin\documents\visual studio 2015\Projects\DungeonsOfDoom\DungeonsOfDoom\obj\Debug\DungeonsOfDoom.pdb
